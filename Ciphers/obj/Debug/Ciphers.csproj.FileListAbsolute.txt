@@ -1,0 +1,17 @@
+C:\Users\neusn\Desktop\Ciphers\bin\Debug\Ciphers.dll
+C:\Users\neusn\Desktop\Ciphers\bin\Debug\Ciphers.pdb
+C:\Users\neusn\Desktop\Ciphers\obj\Debug\Ciphers.csproj.CoreCompileInputs.cache
+C:\Users\neusn\Desktop\Ciphers\obj\Debug\Ciphers.dll
+C:\Users\neusn\Desktop\Ciphers\obj\Debug\Ciphers.pdb
+C:\Users\neusn\Desktop\PeganovLaba\Ciphers\bin\Debug\Ciphers.dll
+C:\Users\neusn\Desktop\PeganovLaba\Ciphers\bin\Debug\Ciphers.pdb
+C:\Users\neusn\Desktop\PeganovLaba\Ciphers\obj\Debug\Ciphers.csprojAssemblyReference.cache
+C:\Users\neusn\Desktop\PeganovLaba\Ciphers\obj\Debug\Ciphers.csproj.CoreCompileInputs.cache
+C:\Users\neusn\Desktop\PeganovLaba\Ciphers\obj\Debug\Ciphers.dll
+C:\Users\neusn\Desktop\PeganovLaba\Ciphers\obj\Debug\Ciphers.pdb
+C:\Users\neusn\Desktop\GitHub\Encryptor\Ciphers\bin\Debug\Ciphers.dll
+C:\Users\neusn\Desktop\GitHub\Encryptor\Ciphers\bin\Debug\Ciphers.pdb
+C:\Users\neusn\Desktop\GitHub\Encryptor\Ciphers\obj\Debug\Ciphers.csprojAssemblyReference.cache
+C:\Users\neusn\Desktop\GitHub\Encryptor\Ciphers\obj\Debug\Ciphers.csproj.CoreCompileInputs.cache
+C:\Users\neusn\Desktop\GitHub\Encryptor\Ciphers\obj\Debug\Ciphers.dll
+C:\Users\neusn\Desktop\GitHub\Encryptor\Ciphers\obj\Debug\Ciphers.pdb
